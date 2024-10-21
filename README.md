@@ -1,6 +1,15 @@
 # FHNW MAKEathon 2024
+![](https://www.fhnw.ch/plattformen/makeathon/wp-content/uploads/sites/204/cropped-MAKE_Logo-1.png)
 
-Welcome to the FHNW MAKEathon 2024! This guide provides the latest information on deploying various applications and services on Azure. Below are detailed instructions and resources to help you get started.
+
+Event link: https://www.fhnw.ch/plattformen/makeathon/
+
+
+
+Welcome to the FHNW MAKEathon 2024! This guide provides some starting point on deploying various applications and services on Azure. 
+Below are detailed instructions and resources to help you get started.
+
+If you have more questions, please ping us at the Teams channel shared by the organizers.
 
 ## Deploy a Python App to Azure App Service using GitHub Actions and GitHub Codespaces
 
